@@ -78,6 +78,8 @@ To start the development environment locally:
 
 # Clone the repository
 git clone https://github.com/your-username/SecuritySystem.git
+
+
 cd SecuritySystem
 
 # Build and run with Docker Compose
